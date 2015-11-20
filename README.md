@@ -1,4 +1,3 @@
 # Git Tutorial
-
 - feature-A
 
